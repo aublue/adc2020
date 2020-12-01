@@ -14,8 +14,8 @@ namespace FirstOfDecember
             var solution = input.Select(x => input.FirstOrDefault(y => y + x == 2020) * x).First(x => x != 0);
             
             Console.WriteLine($"The result for the first day (task 1) of AdventOfCode is: {solution}");
-//            Console.WriteLine("Press any key to continue...");
-//            Console.ReadKey();
+            Console.WriteLine("Press any key to continue...");
+            Console.ReadKey();
         }
     }
 }
