@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/FirstOfDecember/FirstOfDecember.csproj",
-      "projectName": "FirstOfDecember",
-      "projectPath": "/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/FirstOfDecember/FirstOfDecember.csproj",
+      "projectUniqueName": "/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/FirstOfDecemberTaskOne/FirstOfDecemberTaskOne.csproj",
+      "projectName": "FirstOfDecemberTaskOne",
+      "projectPath": "/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/FirstOfDecemberTaskOne/FirstOfDecemberTaskOne.csproj",
       "packagesPath": "/home/aublue/.nuget/packages/",
-      "outputPath": "/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/FirstOfDecember/obj/",
+      "outputPath": "/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/FirstOfDecemberTaskOne/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/aublue/.nuget/NuGet/NuGet.Config"
