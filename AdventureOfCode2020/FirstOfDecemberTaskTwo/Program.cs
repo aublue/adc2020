@@ -20,9 +20,9 @@ namespace FirstOfDecemberTaskTwo
                 ).FirstOrDefault(x => x != 0);
 
             
-            Console.WriteLine($"The result for the first day of AdventOfCode is: {solution}");
-            Console.WriteLine("Press any key to continue...");
-            Console.ReadKey();
+            Console.WriteLine($"The result for the first day (task 2) of AdventOfCode is: {solution}");
+ //           Console.WriteLine("Press any key to continue...");
+ //           Console.ReadKey();
         }
     }
 }
