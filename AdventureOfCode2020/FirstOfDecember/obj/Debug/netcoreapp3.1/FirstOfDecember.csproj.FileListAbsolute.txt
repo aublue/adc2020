@@ -1,0 +1,14 @@
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/FirstOfDecember/bin/Debug/netcoreapp3.1/FirstOfDecember
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/FirstOfDecember/bin/Debug/netcoreapp3.1/FirstOfDecember.deps.json
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/FirstOfDecember/bin/Debug/netcoreapp3.1/FirstOfDecember.runtimeconfig.json
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/FirstOfDecember/bin/Debug/netcoreapp3.1/FirstOfDecember.runtimeconfig.dev.json
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/FirstOfDecember/bin/Debug/netcoreapp3.1/FirstOfDecember.dll
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/FirstOfDecember/bin/Debug/netcoreapp3.1/FirstOfDecember.pdb
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/FirstOfDecember/obj/Debug/netcoreapp3.1/FirstOfDecember.csprojAssemblyReference.cache
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/FirstOfDecember/obj/Debug/netcoreapp3.1/FirstOfDecember.AssemblyInfoInputs.cache
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/FirstOfDecember/obj/Debug/netcoreapp3.1/FirstOfDecember.AssemblyInfo.cs
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/FirstOfDecember/obj/Debug/netcoreapp3.1/FirstOfDecember.csproj.CoreCompileInputs.cache
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/FirstOfDecember/obj/Debug/netcoreapp3.1/FirstOfDecember.dll
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/FirstOfDecember/obj/Debug/netcoreapp3.1/FirstOfDecember.pdb
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/FirstOfDecember/obj/Debug/netcoreapp3.1/FirstOfDecember.genruntimeconfig.cache
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/FirstOfDecember/bin/Debug/netcoreapp3.1/input.txt
