@@ -1,18 +1,18 @@
-# This reposisitory contains the code, I've developed during the advent of code 2020.
+## This reposisitory contains the code, I've developed during the advent of code 2020.
+This link will redirect you to the event: https://adventofcode.com/
 
 
-
-# Performance
+## Performance
 
 ## How I measure the performance
-I'm utilizing the time command for measuring my applications performance.
+I'm utilizing the "time" command for measuring my applications performance.
 
 ## Which System are I'm using
 The basic specs of my system are:
 
-OS: Ubuntu 20.04
-CPU: i7 6700hq
-dotnet version: 3.1.404
+-OS: Ubuntu 20.04\
+-CPU: i7 6700hq\
+-dotnet version: 3.1.404
 
 ## Day 1
 ### Task1
