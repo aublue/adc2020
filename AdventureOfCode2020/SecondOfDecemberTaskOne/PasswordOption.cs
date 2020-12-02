@@ -7,7 +7,6 @@ namespace SecondOfDecemberTaskOne
     public class PasswordOption
     {
         //static regex objects to prevent compiling the regex patterns multiple times
-       // private static readonly Regex OccurrenceRegex = new Regex(@"([0-9]+)(?=-)");
         private static readonly Regex OccurrenceRegex = new Regex(@"([0-9]+)");
         private static readonly Regex PassCharRegex = new Regex(@"([a-z]+)(?=:)");
         private static readonly Regex PasswordRegex = new Regex(@"([a-z]+)(?!\\w)(?!:)");
