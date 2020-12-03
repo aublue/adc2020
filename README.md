@@ -18,7 +18,7 @@ The basic specs of my system are:
 ### Task 1
 |Executed in | 108,54 millis  |  fish         |  external 
 |-|-|-|-|
-  | usr time  | 77,08 millis || 491,00 micros  | 76,59 millis 
+  | usr time  | 77,08 millis | 491,00 micros  | 76,59 millis 
   | sys time  | 24,35 millis | 161,00 micros   |24,19 millis
    
 ### Task 2
