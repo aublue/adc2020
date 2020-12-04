@@ -14,7 +14,19 @@ The basic specs of my system are:
 -CPU: i7 6700hq\
 -dotnet version: 3.1.404
 
-
+## Day 3
+### Task 1
+|Executed in | 108,54 millis  |  fish         |  external 
+|-|-|-|-|
+  | usr time  | 77,08 millis | 491,00 micros  | 76,59 millis 
+  | sys time  | 24,35 millis | 161,00 micros   |24,19 millis
+   
+### Task 2
+|Executed in  |101,11 millis    |fish      |     external 
+|-|-|-|-|
+   |usr time  | 90,28 millis | 524,00 micros  | 89,75 millis 
+  | sys time  |  8,81 millis | 123,00 micros  |  8,69 millis 
+   
 ## Day 2
 ### Task 1
 |Executed in | 134,69 millis  |  fish         |  external |
