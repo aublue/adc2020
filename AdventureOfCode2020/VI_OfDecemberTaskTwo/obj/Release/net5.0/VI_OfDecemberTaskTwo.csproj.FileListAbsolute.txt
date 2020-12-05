@@ -1,0 +1,16 @@
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/VI_OfDecemberTaskTwo/bin/Release/net5.0/VI_OfDecemberTaskTwo
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/VI_OfDecemberTaskTwo/bin/Release/net5.0/VI_OfDecemberTaskTwo.deps.json
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/VI_OfDecemberTaskTwo/bin/Release/net5.0/VI_OfDecemberTaskTwo.runtimeconfig.json
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/VI_OfDecemberTaskTwo/bin/Release/net5.0/VI_OfDecemberTaskTwo.runtimeconfig.dev.json
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/VI_OfDecemberTaskTwo/bin/Release/net5.0/VI_OfDecemberTaskTwo.dll
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/VI_OfDecemberTaskTwo/bin/Release/net5.0/ref/VI_OfDecemberTaskTwo.dll
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/VI_OfDecemberTaskTwo/bin/Release/net5.0/VI_OfDecemberTaskTwo.pdb
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/VI_OfDecemberTaskTwo/obj/Release/net5.0/VI_OfDecemberTaskTwo.csprojAssemblyReference.cache
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/VI_OfDecemberTaskTwo/obj/Release/net5.0/VI_OfDecemberTaskTwo.GeneratedMSBuildEditorConfig.editorconfig
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/VI_OfDecemberTaskTwo/obj/Release/net5.0/VI_OfDecemberTaskTwo.AssemblyInfoInputs.cache
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/VI_OfDecemberTaskTwo/obj/Release/net5.0/VI_OfDecemberTaskTwo.AssemblyInfo.cs
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/VI_OfDecemberTaskTwo/obj/Release/net5.0/VI_OfDecemberTaskTwo.csproj.CoreCompileInputs.cache
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/VI_OfDecemberTaskTwo/obj/Release/net5.0/VI_OfDecemberTaskTwo.dll
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/VI_OfDecemberTaskTwo/obj/Release/net5.0/ref/VI_OfDecemberTaskTwo.dll
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/VI_OfDecemberTaskTwo/obj/Release/net5.0/VI_OfDecemberTaskTwo.pdb
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/VI_OfDecemberTaskTwo/obj/Release/net5.0/VI_OfDecemberTaskTwo.genruntimeconfig.cache

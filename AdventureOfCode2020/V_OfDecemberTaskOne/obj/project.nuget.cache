@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "ExEw4bkn9KtEeDLloLbXYGmcqbgNgSvZi7a7/63kdm5ibB3ia49P5/3ixbPiHNrdUCWgkw2yDTXjqIMt3mF8kw==",
+  "dgSpecHash": "EFm4R0d6CtsAokD50tPUl3wSttoB4uVunEfvbjhbmrqN/Hg5EEi2excvbE8C52u6/rd2PIb1ZgBlnti0B5cqyQ==",
   "success": true,
   "projectFilePath": "/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/V_OfDecemberTaskOne/V_OfDecemberTaskOne.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/aublue/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512",
+    "/home/aublue/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.1.9/microsoft.netcore.app.host.linux-x64.3.1.9.nupkg.sha512"
+  ],
   "logs": []
 }
