@@ -12,7 +12,7 @@ The basic specs of my system are:
 
 -OS: Ubuntu 20.04\
 -CPU: i7 6700hq\
--dotnet version: 3.1.404
+-dotnet version: 3.1.404 / 5.0.100
 
 ## Day 5
 ### Task 1
