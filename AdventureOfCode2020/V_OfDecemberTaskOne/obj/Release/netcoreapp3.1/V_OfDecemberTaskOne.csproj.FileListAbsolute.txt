@@ -1,0 +1,14 @@
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/V_OfDecemberTaskOne/bin/Release/netcoreapp3.1/V_OfDecemberTaskOne
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/V_OfDecemberTaskOne/bin/Release/netcoreapp3.1/input.txt
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/V_OfDecemberTaskOne/bin/Release/netcoreapp3.1/V_OfDecemberTaskOne.deps.json
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/V_OfDecemberTaskOne/bin/Release/netcoreapp3.1/V_OfDecemberTaskOne.runtimeconfig.json
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/V_OfDecemberTaskOne/bin/Release/netcoreapp3.1/V_OfDecemberTaskOne.runtimeconfig.dev.json
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/V_OfDecemberTaskOne/bin/Release/netcoreapp3.1/V_OfDecemberTaskOne.dll
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/V_OfDecemberTaskOne/bin/Release/netcoreapp3.1/V_OfDecemberTaskOne.pdb
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/V_OfDecemberTaskOne/obj/Release/netcoreapp3.1/V_OfDecemberTaskOne.csprojAssemblyReference.cache
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/V_OfDecemberTaskOne/obj/Release/netcoreapp3.1/V_OfDecemberTaskOne.AssemblyInfoInputs.cache
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/V_OfDecemberTaskOne/obj/Release/netcoreapp3.1/V_OfDecemberTaskOne.AssemblyInfo.cs
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/V_OfDecemberTaskOne/obj/Release/netcoreapp3.1/V_OfDecemberTaskOne.csproj.CoreCompileInputs.cache
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/V_OfDecemberTaskOne/obj/Release/netcoreapp3.1/V_OfDecemberTaskOne.dll
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/V_OfDecemberTaskOne/obj/Release/netcoreapp3.1/V_OfDecemberTaskOne.pdb
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/V_OfDecemberTaskOne/obj/Release/netcoreapp3.1/V_OfDecemberTaskOne.genruntimeconfig.cache
