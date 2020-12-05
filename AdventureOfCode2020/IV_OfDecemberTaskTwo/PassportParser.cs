@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace IV_OfDecemberTaskTwo
 {
@@ -7,6 +8,8 @@ namespace IV_OfDecemberTaskTwo
     {
         public static IEnumerable<Passport> ParseInput(String[] inputStr)
         {
+            var passportStrings = new List<String>();
+            
             var currPassportStr = "";
             for (var i = 0; i < inputStr.Length; i++)
             {
@@ -15,11 +18,12 @@ namespace IV_OfDecemberTaskTwo
                 
                 if (String.IsNullOrWhiteSpace(line) || i == inputStr.Length - 1)
                 {
-                    var passport =new Passport(currPassportStr); 
+                    passportStrings.Add(currPassportStr);
                     currPassportStr = "";
-                    yield return passport;
                 }
             }
+
+            return passportStrings.Select(x => new Passport(x));
         }
     }
 }

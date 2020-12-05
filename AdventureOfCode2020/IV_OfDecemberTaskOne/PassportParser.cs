@@ -23,7 +23,7 @@ namespace IV_OfDecemberTaskOne
                 }
             }
 
-            return passportStrings.AsParallel().Select(x => new Passport(x));
+            return passportStrings.Select(x => new Passport(x));
         }
     }
 }
