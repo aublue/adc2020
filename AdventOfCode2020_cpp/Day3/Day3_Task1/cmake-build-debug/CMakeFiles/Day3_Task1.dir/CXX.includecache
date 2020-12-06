@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventOfCode2020_cpp/Day3/Day3_Task1/main.cpp
+iostream
+-
+fstream
+-
+vector
+-
+string
+-
+bitset
+-
+

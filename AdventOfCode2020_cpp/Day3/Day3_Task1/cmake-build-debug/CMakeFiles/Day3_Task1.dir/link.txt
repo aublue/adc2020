@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Day3_Task1.dir/main.cpp.o  -o Day3_Task1 
