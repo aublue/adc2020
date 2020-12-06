@@ -1,8 +1,9 @@
 ## This reposisitory contains the code, I've developed during the advent of code 2020.
 This link will redirect you to the event: https://adventofcode.com/
 
+I'm primarily using C# to solve the challanges. Beside my C# solution (if my time allows it...) I try to create a c++ solution as well.
 
-## Performance
+## Performance (C# only)
 
 ## How I measure the performance
 I'm utilizing the "time" command for measuring my applications performance.
