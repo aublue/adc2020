@@ -1,0 +1,4 @@
+/snap/clion/137/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventOfCode2020_cpp/Day2/Day2_Task2
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventOfCode2020_cpp/Day2/Day2_Task2/cmake-build-debug

@@ -1,0 +1,3 @@
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventOfCode2020_cpp/Day2/Day2_Task2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventOfCode2020_cpp/Day2/Day2_Task2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventOfCode2020_cpp/Day2/Day2_Task2/cmake-build-debug/CMakeFiles/Day2_Task2.dir

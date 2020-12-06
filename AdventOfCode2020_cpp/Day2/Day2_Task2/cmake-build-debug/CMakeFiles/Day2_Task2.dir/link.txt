@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Day2_Task2.dir/main.cpp.o CMakeFiles/Day2_Task2.dir/PasswordOption.cpp.o  -o Day2_Task2 
