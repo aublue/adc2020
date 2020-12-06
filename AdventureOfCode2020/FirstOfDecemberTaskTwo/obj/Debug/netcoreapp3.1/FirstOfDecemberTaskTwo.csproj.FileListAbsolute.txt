@@ -1,0 +1,14 @@
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/FirstOfDecemberTaskTwo/bin/Debug/netcoreapp3.1/FirstOfDecemberTaskTwo
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/FirstOfDecemberTaskTwo/bin/Debug/netcoreapp3.1/FirstOfDecemberTaskTwo.deps.json
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/FirstOfDecemberTaskTwo/bin/Debug/netcoreapp3.1/FirstOfDecemberTaskTwo.runtimeconfig.json
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/FirstOfDecemberTaskTwo/bin/Debug/netcoreapp3.1/FirstOfDecemberTaskTwo.runtimeconfig.dev.json
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/FirstOfDecemberTaskTwo/bin/Debug/netcoreapp3.1/FirstOfDecemberTaskTwo.dll
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/FirstOfDecemberTaskTwo/bin/Debug/netcoreapp3.1/FirstOfDecemberTaskTwo.pdb
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/FirstOfDecemberTaskTwo/obj/Debug/netcoreapp3.1/FirstOfDecemberTaskTwo.csprojAssemblyReference.cache
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/FirstOfDecemberTaskTwo/obj/Debug/netcoreapp3.1/FirstOfDecemberTaskTwo.AssemblyInfoInputs.cache
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/FirstOfDecemberTaskTwo/obj/Debug/netcoreapp3.1/FirstOfDecemberTaskTwo.AssemblyInfo.cs
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/FirstOfDecemberTaskTwo/obj/Debug/netcoreapp3.1/FirstOfDecemberTaskTwo.csproj.CoreCompileInputs.cache
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/FirstOfDecemberTaskTwo/obj/Debug/netcoreapp3.1/FirstOfDecemberTaskTwo.dll
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/FirstOfDecemberTaskTwo/obj/Debug/netcoreapp3.1/FirstOfDecemberTaskTwo.pdb
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/FirstOfDecemberTaskTwo/obj/Debug/netcoreapp3.1/FirstOfDecemberTaskTwo.genruntimeconfig.cache
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/FirstOfDecemberTaskTwo/bin/Debug/netcoreapp3.1/input.txt

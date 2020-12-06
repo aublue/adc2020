@@ -1,0 +1,14 @@
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/FirstOfDecemberTaskOne/bin/Release/netcoreapp3.1/input.txt
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/FirstOfDecemberTaskOne/bin/Release/netcoreapp3.1/FirstOfDecemberTaskOne
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/FirstOfDecemberTaskOne/bin/Release/netcoreapp3.1/FirstOfDecemberTaskOne.deps.json
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/FirstOfDecemberTaskOne/bin/Release/netcoreapp3.1/FirstOfDecemberTaskOne.runtimeconfig.json
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/FirstOfDecemberTaskOne/bin/Release/netcoreapp3.1/FirstOfDecemberTaskOne.runtimeconfig.dev.json
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/FirstOfDecemberTaskOne/bin/Release/netcoreapp3.1/FirstOfDecemberTaskOne.dll
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/FirstOfDecemberTaskOne/bin/Release/netcoreapp3.1/FirstOfDecemberTaskOne.pdb
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/FirstOfDecemberTaskOne/obj/Release/netcoreapp3.1/FirstOfDecemberTaskOne.csprojAssemblyReference.cache
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/FirstOfDecemberTaskOne/obj/Release/netcoreapp3.1/FirstOfDecemberTaskOne.AssemblyInfoInputs.cache
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/FirstOfDecemberTaskOne/obj/Release/netcoreapp3.1/FirstOfDecemberTaskOne.AssemblyInfo.cs
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/FirstOfDecemberTaskOne/obj/Release/netcoreapp3.1/FirstOfDecemberTaskOne.csproj.CoreCompileInputs.cache
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/FirstOfDecemberTaskOne/obj/Release/netcoreapp3.1/FirstOfDecemberTaskOne.dll
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/FirstOfDecemberTaskOne/obj/Release/netcoreapp3.1/FirstOfDecemberTaskOne.pdb
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/FirstOfDecemberTaskOne/obj/Release/netcoreapp3.1/FirstOfDecemberTaskOne.genruntimeconfig.cache
