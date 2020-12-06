@@ -7,6 +7,12 @@
 |   usr time | 879,18 millis | 746,00 micros|  878,44 millis |
  |  sys time  |  8,14 millis | 159,00 micros  |  7,99 millis |
 
+### Task 2
+
+|Executed in | 888,21 millis |   fish   |        external |
+|-|-|-|-|
+|   usr time | 880,39 millis|  628,00 micros| 879,76 millis |
+|   sys time  |  8,08 millis |  79,00 micros |   8,00 millis |
 
 ## Day 1
 ### Task 1
