@@ -1,6 +1,15 @@
 ## Performance data of the C++ version:
 
-##Day 2
+## Day 3
+### Task 1
+|Executed in   |10,06 millis  |  fish        |   external |
+|-|-|-|-|
+|   usr time   | 4,73 millis |   0,00 micros  |  4,73 millis |
+|   sys time   | 5,53 millis | 800,00 micros  |  4,73 millis |
+
+### Task 2
+
+## Day 2
 ### Task 1
 |Executed in | 887,09 millis  |  fish     |      external |
 |-|-|-|-|
