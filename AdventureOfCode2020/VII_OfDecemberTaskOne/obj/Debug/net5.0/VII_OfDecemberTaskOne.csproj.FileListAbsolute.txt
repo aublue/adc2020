@@ -1,0 +1,17 @@
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/VII_OfDecemberTaskOne/bin/Debug/net5.0/VII_OfDecemberTaskOne
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/VII_OfDecemberTaskOne/bin/Debug/net5.0/input.txt
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/VII_OfDecemberTaskOne/bin/Debug/net5.0/VII_OfDecemberTaskOne.deps.json
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/VII_OfDecemberTaskOne/bin/Debug/net5.0/VII_OfDecemberTaskOne.runtimeconfig.json
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/VII_OfDecemberTaskOne/bin/Debug/net5.0/VII_OfDecemberTaskOne.runtimeconfig.dev.json
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/VII_OfDecemberTaskOne/bin/Debug/net5.0/VII_OfDecemberTaskOne.dll
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/VII_OfDecemberTaskOne/bin/Debug/net5.0/ref/VII_OfDecemberTaskOne.dll
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/VII_OfDecemberTaskOne/bin/Debug/net5.0/VII_OfDecemberTaskOne.pdb
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/VII_OfDecemberTaskOne/obj/Debug/net5.0/VII_OfDecemberTaskOne.csprojAssemblyReference.cache
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/VII_OfDecemberTaskOne/obj/Debug/net5.0/VII_OfDecemberTaskOne.GeneratedMSBuildEditorConfig.editorconfig
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/VII_OfDecemberTaskOne/obj/Debug/net5.0/VII_OfDecemberTaskOne.AssemblyInfoInputs.cache
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/VII_OfDecemberTaskOne/obj/Debug/net5.0/VII_OfDecemberTaskOne.AssemblyInfo.cs
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/VII_OfDecemberTaskOne/obj/Debug/net5.0/VII_OfDecemberTaskOne.csproj.CoreCompileInputs.cache
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/VII_OfDecemberTaskOne/obj/Debug/net5.0/VII_OfDecemberTaskOne.dll
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/VII_OfDecemberTaskOne/obj/Debug/net5.0/ref/VII_OfDecemberTaskOne.dll
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/VII_OfDecemberTaskOne/obj/Debug/net5.0/VII_OfDecemberTaskOne.pdb
+/home/aublue/Dokumente/c#/adventofcode2020/adc2020/AdventureOfCode2020/VII_OfDecemberTaskOne/obj/Debug/net5.0/VII_OfDecemberTaskOne.genruntimeconfig.cache
