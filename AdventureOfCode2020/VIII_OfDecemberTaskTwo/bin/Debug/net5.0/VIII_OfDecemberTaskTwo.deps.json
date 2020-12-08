@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "VIII_OfDecemberTaskTwo/1.0.0": {
+        "runtime": {
+          "VIII_OfDecemberTaskTwo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VIII_OfDecemberTaskTwo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
