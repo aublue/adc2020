@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 
-namespace IIX_OfDecemberTaskTwo
+namespace IX_OfDecemberTaskTwo
 {
     class Program
     {

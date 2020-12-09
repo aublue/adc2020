@@ -2,7 +2,7 @@
 using System.IO;
 using System.Linq;
 
-namespace IIX_OfDecemberTaskOne
+namespace IX_OfDecemberTaskOne
 {
     class Program
     {
