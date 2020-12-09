@@ -44,6 +44,19 @@
           </e>
         </e>
       </e>
+      <e p="IIX_OfDecemberTaskTwo" t="IncludeRecursive">
+        <e p="IIX_OfDecemberTaskTwo.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="input.txt" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net5.0" t="Include">
+              <e p="IIX_OfDecemberTaskTwo.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
       <e p="IV_OfDecemberTaskOne" t="IncludeRecursive">
         <e p="IV_OfDecemberTaskOne.csproj" t="IncludeRecursive" />
         <e p="Passport.cs" t="Include" />
